@@ -39,4 +39,8 @@
 - `prod` -> where it will be open for people to use.
 
 ### Setting up django repository
+- What's a framework?
 - Setting up your django rest framework - https://www.django-rest-framework.org/tutorial/quickstart/
+- Understanding what are migrations.
+- What's a pip? - https://pypi.org/project/pip/
+- What's a virtual environment in python - https://realpython.com/python-virtual-environments-a-primer/
