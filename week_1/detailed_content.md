@@ -39,4 +39,4 @@
 - `prod` -> where it will be open for people to use.
 
 ### Setting up django repository
-- https://github.com/cosmos-sajal/django_boilerplate
+- Setting up your django rest framework - https://www.django-rest-framework.org/tutorial/quickstart/
