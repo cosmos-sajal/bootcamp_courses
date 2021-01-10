@@ -7,7 +7,7 @@
 - Explaining what are Virtual Machines and docker.
 - Setting up django repo using docker.
 
-### What you will be making in the end?
+### Your take away from the complete course
 - A Weather App. (how to use a third part API using Postman)
 - Authentication Systems (Login/Register Applications)
 - Magic Link Systems (single click signups) - https://medium.com/hackernoon/magic-links-d680d410f8f7
@@ -22,4 +22,10 @@ https://www.freecodecamp.org/news/have-an-idea-want-to-build-a-product-from-scra
 - What is aunthentication and authroisation? And how do they differ from each other?
 - What is the difference between Encryption and Hashing? And how hashing is used to store passwords in the backend authentication systems?
 - Symmetric and Asymetric Encryptions - https://medium.com/hackernoon/asymmetric-encryption-explained-using-chocolate-boxes-5a329ea6813e
+- Figuring out design patterns and how to apply them in the real world applications - https://refactoring.guru/design-patterns
+https://www.linkedin.com/posts/sajalsarwar_designpatterns-innovation-technology-activity-6725677429073035264-jmIg
+https://www.linkedin.com/pulse/what-you-see-vs-i-series-red-dead-redemption-2-rockstar-sajal-sharma/
+https://www.linkedin.com/posts/sajalsarwar_innovation-technology-engineering-activity-6725006087730331648-ClKW
+- Making a good github profile with a creative readme - https://github.com/cosmos-sajal
+- A good portfolio website to showcase what you know - http://cosmos-sajal.github.io/
 - more to come...
