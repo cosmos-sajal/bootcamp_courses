@@ -29,6 +29,7 @@
 - Django/django-rest-framework
 - postgreSQL
 - AWS
+- postman
 - Sentry for error logging
 - Scalyr for application logging
 - and many more...
