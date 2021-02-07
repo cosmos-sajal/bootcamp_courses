@@ -1,0 +1,14 @@
+### Fifth Week Content
+- Starting up with databases.
+- Two kinds - SQL and NoSQL.
+- Why we use SQL databases and what are it's shortcomings.
+- Why did NoSQL databases came into existence.
+- Where do we use NoSQL databases.
+- Different kinds of NoSQL databases.
+- CAP theorem.
+- Examples of different types of NoSQL databases.
+- Explain the base model structure in terms of databases.
+- How to use OOP concept in designing databases for an application.
+- How we will design a SQL database for WhatsApp application.
+- What are design patterns?
+- What is Factory Design Pattern?
