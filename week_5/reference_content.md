@@ -5,6 +5,7 @@
 - https://www.youtube.com/watch?v=-GS0OxFJsYQ
 
 ### Different Kinds of Databases and when to use which
+- https://www.youtube.com/watch?v=v5e_PasMdXc
 - https://www.youtube.com/watch?v=W2Z7fbCLSTw
 
 ### CAP Theorem

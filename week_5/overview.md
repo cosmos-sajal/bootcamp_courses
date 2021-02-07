@@ -6,6 +6,7 @@
 - Where do we use NoSQL databases.
 - Different kinds of NoSQL databases.
 - CAP theorem.
+- When to go for CA (Banking Systems), AP (WhatsApp), CP (Stock/Crypto Exchanges).
 - Examples of different types of NoSQL databases.
 - Explain the base model structure in terms of databases.
 - How to use OOP concept in designing databases for an application.
